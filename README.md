@@ -1,3 +1,5 @@
+***STAY TUNED!! I'M JUST WORKING OUT SOME KINKS!***
+
 iOS-ToDoList
 ============
 
