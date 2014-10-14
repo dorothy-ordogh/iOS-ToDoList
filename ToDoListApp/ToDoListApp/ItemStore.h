@@ -2,7 +2,7 @@
 //  ItemStore.h
 //  ToDoListApp
 //
-//  Created by Dorothy Ordogh on 2014-10-13.
+//  Created by Dorothy Ordogh on 2014-02-17.
 //  Copyright (c) 2014 Dorothy Ordogh. All rights reserved.
 //
 
